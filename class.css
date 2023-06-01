@@ -1,0 +1,14 @@
+p.paragraph{
+    color:blue ;
+    font: 14px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    padding: 10px;
+    margin:12px;
+
+}
+.city{
+    background-color: brown;
+    color: wheat;
+    padding: 30px;
+    margin:30px;
+}
